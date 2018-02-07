@@ -4,6 +4,7 @@
  - 前端：Jack、Jason、zkquinn
  - 后端：MoSan
  - 产品：silence
+ - 运营：LiPing
 
 ###2. 开发软件
  - 前端：JavaScript、HTML、CSS
